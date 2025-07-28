@@ -29,6 +29,13 @@
 
 ---
 
-<!-- Optional: Activity graph -->
-### ⚡ Recent Activity
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=reyhanzaynuri&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 🧩 Recent Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [🎫 TickDesk](https://github.com/reyhanzaynuri/TickDesk) | A ticketing chat support system with real-time conversation and role-based task management. | Laravel, Vite, MySQL, Docker |
+
+| [🍄 vMush](https://github.com/rzaynuri08/vmush) | Virtual learning and monitoring app for mushroom farming, combining UI, sensors, and analytics. | Kotlin, Firebase, Node.js |
+| [🐣 Easter Picture Adventure](https://github.com/rzaynuri08/EasterPictureAdventure) | Fun kids game for taking pictures and solving missions in an Easter-themed world. | Kotlin, Android SDK |
+| [📱 Mobilink](https://github.com/rzaynuri08/mobilink) | A prototype app focused on mobile UI/UX design with dynamic user interaction. | Flutter |
+| [👨‍🏫 CodingCamp](https://github.com/rzaynuri08/CodingCamp) | Educational platform app for managing tech learning activities and coding camps. | Kotlin, Firebase |
