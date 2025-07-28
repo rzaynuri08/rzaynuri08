@@ -69,36 +69,6 @@ Kalau kamu ingin versi yang lebih minimal, atau yang gelap-putih, tinggal bilang
 
 
 
-
-
-
-
-
-You said:
-### 💻 Tech Stack
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?style=flat-square&logo=vue.js)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-
-
-tech stack ubah
-1. Kotlin
-2. Flutter
-3. Java
-4. Python
-5. Docker
-6. Kubernetes
-
-
-dan berikan show up dari project saya
-
-
-ChatGPT said:
-Berikut adalah versi yang sudah diperbarui dengan Tech Stack pilihan kamu dan bagian "✨ Featured Projects" untuk menampilkan proyek-proyek unggulan kamu:
-
-
 ### 💻 Tech Stack
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
